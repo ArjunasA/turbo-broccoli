@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+#heading {
+    color: aliceblue;
+}
+
+#sec_heading{
+    color: black;
+    margin-left: 100px;
+}
+
+.list{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#lists{
+    font-size: 30px;
+    text-decoration-line: none;
+}
+#gfg{
+    text-decoration: none;
+    text-deco
+}
+#gfg:hover{
+    color: black;
+}
